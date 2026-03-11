@@ -1,0 +1,6 @@
+flask
+gunicorn
+schedule
+requests
+msal
+psycopg[binary]
